@@ -1,0 +1,14 @@
+{
+  "name": "tensor-flow",
+  "version": "0.0.0",
+  "description": "TensorFlow",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@tensorflow-models/qna": "^1.0.0",
+    "@tensorflow/tfjs-backend-cpu": "^3.9.0",
+    "@tensorflow/tfjs-node": "^3.9.0"
+  }
+}
